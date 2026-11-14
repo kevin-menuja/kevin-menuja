@@ -4,7 +4,7 @@
 
 > **Project context:** Web Application Development coursework at ICBT Campus, Sri Lanka. This is an **academic demonstration**, not a live travel agency, commercial booking service, or production-ready payment platform.
 
-**[View the original source repository](https://github.com/Startek-pvt-ltd/globetrek-adventures)** (maintained under the Startek GitHub account)
+**[View the original academic project's source repository](https://github.com/kevin-menuja/globetrek-adventures)** (now owned by the personal GitHub account; original Git history preserved)
 
 ## The problem
 
@@ -56,14 +56,14 @@ These are implementation observations, **not** a claim that the application pass
 
 ## Portfolio evidence
 
-- **[Browse the application source](https://github.com/Startek-pvt-ltd/globetrek-adventures)**
-- **[Review the schema](https://github.com/Startek-pvt-ltd/globetrek-adventures/blob/main/database/schema.sql)**
-- **[Review authentication helpers](https://github.com/Startek-pvt-ltd/globetrek-adventures/blob/main/includes/auth.php)**
-- **[Review the booking workflow](https://github.com/Startek-pvt-ltd/globetrek-adventures/blob/main/booking.php)**
+- **[Browse the application source](https://github.com/kevin-menuja/globetrek-adventures)**
+- **[Review the schema](https://github.com/kevin-menuja/globetrek-adventures/blob/main/database/schema.sql)**
+- **[Review authentication helpers](https://github.com/kevin-menuja/globetrek-adventures/blob/main/includes/auth.php)**
+- **[Review the booking workflow](https://github.com/kevin-menuja/globetrek-adventures/blob/main/booking.php)**
 
 ## Attribution and source ownership
 
-The original repository is under **Startek-pvt-ltd** and was built in an academic context. This page showcases the project without claiming exclusive individual authorship or transferring the original code. Specific individual/team contributions should be listed when verified.
+The repository was originally hosted under **Startek-pvt-ltd** and has since been transferred to **kevin-menuja**, retaining the original Git history and academic application code. This page documents the original coursework, without claiming additional implementation work or replacing existing contribution history. Specific academic/team contributions should be credited according to the project record.
 
 ---
 
