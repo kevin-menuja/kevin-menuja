@@ -55,7 +55,7 @@ I'm evolving **ServiceOps**, a team-developed field service and maintenance mana
 | --- | --- | --- |
 | **ServiceOps** | Team-built field service management system; evolving toward AI-assisted operations | Private collaborative project; public case study in preparation |
 | **Startek Restaurant POS** | Restaurant point-of-sale and back-office workflows, with documented architecture and demo media | [Explore repository](https://github.com/Startek-pvt-ltd/startek-restaurant-pos) |
-| **GlobeTrek Adventures** | Travel booking and management application built with PHP, MySQL, JavaScript, and Bootstrap | [Explore repository](https://github.com/Startek-pvt-ltd/globetrek-adventures) |
+| **GlobeTrek Adventures** | Academic travel-booking application using PHP, MySQL, and role-separated dashboards | [Case study](projects/globetrek-adventures.md) · [Source](https://github.com/Startek-pvt-ltd/globetrek-adventures) |
 | **PrintXpress Mobile App** | Android application built with Java, XML, and SQLite | [Explore repository](https://github.com/Startek-pvt-ltd/PrintXpress-Mobile-App) |
 
 Some work is maintained under the Startek account or was completed collaboratively. Repository ownership and team contributions are credited separately from my personal work.
