@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kevin-menuja-st20345403">LinkedIn</a> ·
   <a href="https://youtube.com/@kevinmenuja">YouTube</a> ·
   <a href="https://www.instagram.com/kevsss_11">Instagram</a> ·
-  <a href="https://github.com/Startek-pvt-ltd">Startek Projects</a>
+  <a href="https://github.com/kevin-menuja?tab=repositories">My Projects</a>
 </p>
 
 ---
@@ -54,11 +54,13 @@ I'm evolving **ServiceOps**, a team-developed field service and maintenance mana
 | Project | What it demonstrates | Code / details |
 | --- | --- | --- |
 | **ServiceOps** | Team-built field service management system; evolving toward AI-assisted operations | Private collaborative project; public case study in preparation |
-| **Startek Restaurant POS** | Restaurant point-of-sale and back-office workflows, with documented architecture and demo media | [Explore repository](https://github.com/Startek-pvt-ltd/startek-restaurant-pos) |
-| **GlobeTrek Adventures** | Academic travel-booking application using PHP, MySQL, and role-separated dashboards | [Case study](projects/globetrek-adventures.md) · [Source](https://github.com/Startek-pvt-ltd/globetrek-adventures) |
-| **PrintXpress Mobile App** | Android application built with Java, XML, and SQLite | [Explore repository](https://github.com/Startek-pvt-ltd/PrintXpress-Mobile-App) |
+| **Startek Restaurant POS** | Restaurant point-of-sale and back-office workflows, with documented architecture and demo media | [Explore repository](https://github.com/kevin-menuja/startek-restaurant-pos) |
+| **GlobeTrek Adventures** | Academic travel-booking application using PHP, MySQL, and role-separated dashboards | [Case study](projects/globetrek-adventures.md) · [Source](https://github.com/kevin-menuja/globetrek-adventures) |
+| **PrintXpress Mobile App** | Android application built with Java, XML, and SQLite | [Explore repository](https://github.com/kevin-menuja/PrintXpress-Mobile-App) |
 
-Some work is maintained under the Startek account or was completed collaboratively. Repository ownership and team contributions are credited separately from my personal work.
+These repositories are owned by my personal GitHub account. Startek-branded work retains its business identity, and academic or collaborative projects retain their original context and contribution credits.
+
+**More repositories:** [Startek Print Hub POS](https://github.com/kevin-menuja/startek-print-hub-pos) · [Startek Corporate Website](https://github.com/kevin-menuja/startek-corporate-website) · [Startek Socials](https://github.com/kevin-menuja/startek-socials) · [Personal Portfolio](https://github.com/kevin-menuja/kevinmenuja.com)
 
 ### 🎯 What I'm working toward
 
