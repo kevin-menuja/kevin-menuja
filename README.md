@@ -56,7 +56,7 @@ I'm evolving **ServiceOps**, a team-developed field service and maintenance mana
 | **ServiceOps** | Team-built field service management system; evolving toward AI-assisted operations | Private collaborative project; public case study in preparation |
 | **Startek Restaurant POS** | Restaurant point-of-sale and back-office workflows, with documented architecture and demo media | [Explore repository](https://github.com/kevin-menuja/startek-restaurant-pos) |
 | **GlobeTrek Adventures** | Academic travel-booking application using PHP, MySQL, and role-separated dashboards | [Case study](projects/globetrek-adventures.md) · [Source](https://github.com/kevin-menuja/globetrek-adventures) |
-| **PrintXpress Mobile App** | Academic Android application with local Room/SQLite ordering, artwork selection, and user accounts | [Case study](projects/printxpress-mobile-app.md) · [Source](https://github.com/kevin-menuja/PrintXpress-Mobile-App) |
+| **PrintXpress Mobile App** | Academic Android application with local Room/SQLite ordering, artwork selection, and user accounts | [Case study](projects/printxpress-mobile-app.md) · [Source](https://github.com/kevin-menuja/printxpress) |
 
 These repositories are owned by my personal GitHub account. Startek-branded work retains its business identity, and academic or collaborative projects retain their original context and contribution credits.
 

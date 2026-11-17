@@ -2,7 +2,7 @@
 
 **Java 17 · Android SDK 34 · XML / Material Components · Room / SQLite**
 
-> **Academic Android development project** maintained at [kevin-menuja/PrintXpress-Mobile-App](https://github.com/kevin-menuja/PrintXpress-Mobile-App). The implementation uses an on-device data store and demonstration ordering workflow. It is not a deployed commercial print-order or payment service.
+> **Academic Android development project** maintained at [kevin-menuja/printxpress](https://github.com/kevin-menuja/printxpress). The implementation uses an on-device data store and demonstration ordering workflow. It is not a deployed commercial print-order or payment service.
 
 ## The problem
 
@@ -43,11 +43,11 @@ flowchart TD
 
 ## Explore the code
 
-- [Complete source](https://github.com/kevin-menuja/PrintXpress-Mobile-App)
-- [README and setup](https://github.com/kevin-menuja/PrintXpress-Mobile-App/blob/main/README.md)
-- [Room database](https://github.com/kevin-menuja/PrintXpress-Mobile-App/blob/main/app/src/main/java/com/printxpress/app/database/AppDatabase.java)
-- [Order screen](https://github.com/kevin-menuja/PrintXpress-Mobile-App/blob/main/app/src/main/java/com/printxpress/app/NewOrderActivity.java)
-- [Validation tests](https://github.com/kevin-menuja/PrintXpress-Mobile-App/blob/main/app/src/test/java/com/printxpress/app/utils/ValidationUtilsTest.java)
+- [Complete source](https://github.com/kevin-menuja/printxpress)
+- [README and setup](https://github.com/kevin-menuja/printxpress/blob/main/README.md)
+- [Room database](https://github.com/kevin-menuja/printxpress/blob/main/app/src/main/java/com/printxpress/app/database/AppDatabase.java)
+- [Order screen](https://github.com/kevin-menuja/printxpress/blob/main/app/src/main/java/com/printxpress/app/NewOrderActivity.java)
+- [Validation tests](https://github.com/kevin-menuja/printxpress/blob/main/app/src/test/java/com/printxpress/app/utils/ValidationUtilsTest.java)
 
 ## Academic attribution
 
