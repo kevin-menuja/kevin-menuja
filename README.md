@@ -18,25 +18,19 @@
 
 I'm a Sri Lankan developer with hands-on full-stack experience, focused on turning real operational problems into maintainable web applications. I'm now developing deeper expertise in **applied AI engineering**—particularly LLM integrations, retrieval-augmented generation (RAG), and safe agent workflows.
 
-- 🎓 Studying **Computing & Software Engineering** at ICBT Campus.
+- 🎓 Completed the **OTHM Level 3 Foundation Diploma in Higher Studies** and the **Higher Diploma in Computing & Software Engineering** through ICBT Campus Colombo.
 - 🧩 Working across frontend, backend, databases, and deployment workflows.
 - 🏢 Building products and digital solutions through **Startek**.
 - 🌍 Interested in **international remote engineering opportunities**, collaboration, and SaaS product development.
 - 🗣️ Interested in making technology more accessible through **English and Sinhala** content.
 
-### 🚀 Currently building — ServiceOps AI Copilot
+### 🤖 Applied AI engineering — current learning focus
 
-I'm evolving **ServiceOps**, a team-developed field service and maintenance management application, toward an AI-assisted product.
+I'm building deeper expertise in LLM APIs, retrieval-augmented generation (RAG), tool calling, evaluations and secure AI workflows, alongside full-stack engineering.
 
-**Existing foundation:** Next.js, TypeScript, ASP.NET Core, PostgreSQL, Entity Framework Core, and role-based access control.
+My **ServiceOps** contribution was part of our [completed Higher Diploma final group project](https://github.com/kevin-menuja/serviceops-group-project). The published group application uses **Next.js, TypeScript, ASP.NET Core and PostgreSQL**; it **does not yet implement an AI Copilot or RAG features**. Any future AI development will be documented separately from our group's original coursework.
 
-**Current development direction:**
-- AI-assisted service ticket classification
-- RAG-powered knowledge assistance
-- Safe, permission-aware agent workflows
-- Automated testing, observability, security, and deployment readiness
-
-> The AI capabilities above are an active development roadmap—not a claim that all features are already implemented or production-ready. The original ServiceOps project is collaborative, and its source repository is currently private.
+**Current technical priorities:** AI integrations, testing, security, observability, cloud and production architecture.
 
 ### 🛠️ Tech stack
 
@@ -49,18 +43,22 @@ I'm evolving **ServiceOps**, a team-developed field service and maintenance mana
 
 **Actively expanding into:** Python, FastAPI, LLM APIs, RAG, tool calling, agent evaluations, Redis, pgvector, cloud deployment, CI/CD, and system design.
 
-### 📌 Selected projects
+### 📌 Featured engineering projects
 
-| Project | What it demonstrates | Code / details |
+These six projects are selected to represent my strongest work across modern full-stack engineering, backend services, collaborative development, mobile applications and operational business systems.
+
+| Project | Engineering evidence | Code / case study |
 | --- | --- | --- |
-| **ServiceOps** | Team-built field service management system; evolving toward AI-assisted operations | Private collaborative project; public case study in preparation |
-| **Startek Restaurant POS** | Restaurant point-of-sale and back-office workflows, with documented architecture and demo media | [Explore repository](https://github.com/kevin-menuja/startek-restaurant-pos) |
-| **GlobeTrek Adventures** | Academic travel-booking application using PHP, MySQL, and role-separated dashboards | [Case study](projects/globetrek-adventures.md) · [Source](https://github.com/kevin-menuja/globetrek-adventures) |
-| **PrintXpress Mobile App** | Academic Android application with local Room/SQLite ordering, artwork selection, and user accounts | [Case study](projects/printxpress-mobile-app.md) · [Source](https://github.com/kevin-menuja/printxpress) |
+| **Startek Restaurant POS** | Next.js, TypeScript, Prisma/PostgreSQL, restaurant operations, automated testing, deployment evidence | [Repository](https://github.com/kevin-menuja/startek-restaurant-pos) · [Case study](https://github.com/kevin-menuja/startek-restaurant-pos/blob/main/docs/PORTFOLIO_CASE_STUDY.md) |
+| **Startek Print Hub POS** | Next.js, TypeScript, Prisma/PostgreSQL, print-job workflows, financial logic and automated tests | [Repository](https://github.com/kevin-menuja/startek-print-hub-pos) |
+| **ServiceOps — Final Group Project** | Collaborative field-service management app with Next.js, ASP.NET Core and PostgreSQL; role-aware operations | [Repository](https://github.com/kevin-menuja/serviceops-group-project) · [Team contributions](https://github.com/kevin-menuja/serviceops-group-project/blob/main/docs/TEAM.md) |
+| **NWSDB Smart Water Billing** | C#/.NET API and MVC client, EF Core service layers, 36 automated unit tests | [Repository](https://github.com/kevin-menuja/nwsdb-smart-water-billing-system) · [Case study](https://github.com/kevin-menuja/nwsdb-smart-water-billing-system/blob/main/docs/CASE_STUDY.md) |
+| **PrintXpress** | Java Android mobile app, local Room/SQLite data and print-order workflows | [Repository](https://github.com/kevin-menuja/printxpress) · [Case study](projects/printxpress-mobile-app.md) |
+| **SwiftDrive Rentals** | PHP/MySQL rental management, availability/pricing workflows, role-based access and CI checks | [Repository](https://github.com/kevin-menuja/swiftdrive-rentals) · [Case study](https://github.com/kevin-menuja/swiftdrive-rentals/blob/main/docs/CASE_STUDY.md) |
 
-These repositories are owned by my personal GitHub account. Startek-branded work retains its business identity, and academic or collaborative projects retain their original context and contribution credits.
+Startek-branded applications retain their **business identity**, and **ServiceOps is explicitly a collaborative academic group project**, not an individual solo project. These repositories demonstrate existing engineering work; none is presented as a completed AI agent or production AI system.
 
-**More repositories:** [Startek Print Hub POS](https://github.com/kevin-menuja/startek-print-hub-pos) · [Startek Corporate Website](https://github.com/kevin-menuja/startek-corporate-website) · [Startek Socials](https://github.com/kevin-menuja/startek-socials) · [Personal Portfolio](https://github.com/kevin-menuja/kevinmenuja.com)
+**Other projects:** [GlobeTrek Adventures](https://github.com/kevin-menuja/globetrek-adventures) · [KMC Event Management](https://github.com/kevin-menuja/kmc-event-management) · [EcoSprout](https://github.com/kevin-menuja/ecosprout-plant-nursery) · [The Green Basket](https://github.com/kevin-menuja/the-green-basket) · [Startek Corporate Website](https://github.com/kevin-menuja/startek-corporate-website) · [Personal Portfolio](https://github.com/kevin-menuja/kevinmenuja.com) · [All repositories](https://github.com/kevin-menuja?tab=repositories)
 
 ### 🎯 What I'm working toward
 
